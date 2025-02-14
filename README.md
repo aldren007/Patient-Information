@@ -6,7 +6,7 @@ For the system, I use Laravel for the backend to handle data, security, and logi
 So far these are the features i've done:
 
 1.Patient Registration 
-Created a patient model and database to store patient details - only the demographic data. Also added validation rules to ensure accurate data. For the frontend, built a registration form with input fields, dropdowns and date picker using react and used inertia to send form data to laravel and display validations errors.
+Created a patient model and database to store patient details - only the demographic data. Also added validation rules to ensure accurate data. For the frontend, built a registration form with input fields,\ dropdowns and date picker using react and used inertia to send form data to laravel and display validations errors.
 2. View patient details
 Created a route and controller to fetch patient detail by ID and used eloquent to retrieve data 
 3. Edit Patient Information
