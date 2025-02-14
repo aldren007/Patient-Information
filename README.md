@@ -1,5 +1,13 @@
 # Patient-Information
-Patient Information System
+<h4>Install Dependencies<br></h4>
+<p></p> - composer install
+ - npm install
+</p>
+
+<h4>Run Migrations & Seed Database <br></h4>
+ <p>- php artisan migrate --seed</p>
+<br>
+<h3>Patient Information System</h3>
 
 For the system, I use Laravel for the backend to handle data, security, and logic, and React for the frontend to create interactive and user-friendly interfaces. Inertia.js helps me connect the two seamlessly, making development faster and smoother. 
 
